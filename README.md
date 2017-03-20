@@ -2,6 +2,9 @@
 -------------------------------------------
 A plugin to combine power of mouse and keyboard control with image processing and analysis tools in ImageJ
 
+*__Warning note__: the use of this plugin may lead to unwanted results if actions are not set the proper way (e.g. deleting files or folders, etc.).
+Remember that you can evaluate part of a macro in either ImageJ or Fiji, prior to a fully automated run.*
+
 Version 1.0.6 released. 
 Current features are:
 - mouse move and clicks control, including separated "Press" and "Release" actions on mouse buttons,
