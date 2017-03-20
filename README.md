@@ -10,6 +10,8 @@ Current features are:
 - GUI is macro-recordable,
 - macro-extendable (to use Ext.<Action>... directly in macro code),
 
+A demo macro is provided for you to quickly see how it works. Obviously, proper macro code would be more efficient in that case. AutoClickerJ plugin will be useful when you can't automate some tasks...
+
 Please report here any trouble you get, for me to fix all bugs.
 
 More features coming soon...
