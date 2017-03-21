@@ -13,6 +13,8 @@ Current features are:
 - GUI is macro-recordable,
 - macro-extendable (to use Ext.<Action>... directly in macro code).
 
+**Documentations**: click on "Help" in GUI or select "AutoClickerJ Macro Extensions" in the plugin menu. 
+
 Two demo macro files are provided for you to quickly see how it works. Obviously, proper macro code would be more efficient in that case. AutoClickerJ plugin will be useful when you can't automate some tasks...
 - "AutoClickerJ-Macro-Ext-demo.ijm" shows how macro extensions functionality helps writing a lighter code,
 - "AutoClickerJ-Macro-GUI-demo.ijm" show some lines captured with the macro recorder when using AutoClickerJ GUI.
