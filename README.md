@@ -5,6 +5,7 @@ A plugin to combine power of mouse and keyboard control with image processing an
 *__Warning note__: the use of this plugin may lead to unwanted results if actions are not set the proper way (e.g. deleting files or folders, etc.).
 Remember that you can evaluate part of a macro in either ImageJ or Fiji, prior to a fully automated run.*
 
+-------------------------------------------
 Version 1.0.6 released. 
 Current features are:
 - mouse move and clicks control, including separated "Press" and "Release" actions on mouse buttons,
@@ -13,12 +14,17 @@ Current features are:
 - GUI is macro-recordable,
 - macro-extendable (to use Ext.<Action>... directly in macro code).
 
+-------------------------------------------
 **Documentations**: click on "Help" in GUI or select "AutoClickerJ Macro Extensions" in the plugin menu. 
 
+
+-------------------------------------------
 Two demo macro files are provided for you to quickly see how it works. Obviously, proper macro code would be more efficient in that case. AutoClickerJ plugin will be useful when you can't automate some tasks...
 - "AutoClickerJ-Macro-Ext-demo.ijm" shows how macro extensions functionality helps writing a lighter code,
 - "AutoClickerJ-Macro-GUI-demo.ijm" show some lines captured with the macro recorder when using AutoClickerJ GUI.
 
+
+-------------------------------------------
 Please report here any trouble you get, for me to fix all bugs.
 
 More features coming soon...
