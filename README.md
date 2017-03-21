@@ -9,11 +9,13 @@ Version 1.0.6 released.
 Current features are:
 - mouse move and clicks control, including separated "Press" and "Release" actions on mouse buttons,
 - keyboard keystrokes for a-z, A-Z, 0-9 and all special characters, and "enter", "tab, "delete", "backspace", space", and "up", "down", "left", "right" arrows,
-- GUI with click coordinates preview + coordinates grabber
+- GUI with click coordinates preview + coordinates grabber,
 - GUI is macro-recordable,
-- macro-extendable (to use Ext.<Action>... directly in macro code),
+- macro-extendable (to use Ext.<Action>... directly in macro code).
 
-A demo macro is provided for you to quickly see how it works. Obviously, proper macro code would be more efficient in that case. AutoClickerJ plugin will be useful when you can't automate some tasks...
+Two demo macro files are provided for you to quickly see how it works. Obviously, proper macro code would be more efficient in that case. AutoClickerJ plugin will be useful when you can't automate some tasks...
+- "AutoClickerJ-Macro-Ext-demo.ijm" shows how macro extensions functionality helps writing a lighter code,
+- "AutoClickerJ-Macro-GUI-demo.ijm" show some lines captured with the macro recorder when using AutoClickerJ GUI.
 
 Please report here any trouble you get, for me to fix all bugs.
 
