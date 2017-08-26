@@ -6,8 +6,10 @@ A plugin to combine power of mouse and keyboard control with image processing an
 Remember that you can evaluate part of a macro in either ImageJ or Fiji, prior to a fully automated run.*
 
 -------------------------------------------
-Version 1.0.6 released. 
-Current features are:
+Version 1.0.7 has 2 new functions, available from macro extension only (see documentation):
+- wait until screen changes + wait until something changes within a predefined region of the screen
+
+Version 1.0.6 features are:
 - mouse move and clicks control, including separated "Press" and "Release" actions on mouse buttons,
 - keyboard keystrokes for a-z, A-Z, 0-9 and all special characters, and "enter", "tab, "delete", "backspace", space", and "up", "down", "left", "right" arrows,
 - GUI with click coordinates preview + coordinates grabber,
